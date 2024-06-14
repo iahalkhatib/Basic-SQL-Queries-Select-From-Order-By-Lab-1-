@@ -1,7 +1,7 @@
 ![image](https://github.com/iahalkhatib/Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-/assets/170050432/83e2c87e-caba-4c80-bd1c-6129a687cbb0)
 
 
-# Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1-
+# Basic-SQL-Queries-SelectFrom-OrderBy-Lab-1
 
 # 1. Task 1. Retrieve Employee Device Data 
 
